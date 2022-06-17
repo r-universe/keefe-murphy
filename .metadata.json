@@ -1,0 +1,14 @@
+[
+  {
+    "package": "IMIFA",
+    "oncran": true
+  },
+  {
+    "package": "MEDseq",
+    "oncran": true
+  },
+  {
+    "package": "MoEClust",
+    "oncran": true
+  }
+]
