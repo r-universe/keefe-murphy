@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "IMIFA"]
-	path = IMIFA
-	url = https://github.com/keefe-murphy/imifa
-	shallow = true
-	registered = true
 [submodule "MEDseq"]
 	path = MEDseq
 	url = https://github.com/keefe-murphy/medseq
+	shallow = true
+	registered = true
+[submodule "IMIFA"]
+	path = IMIFA
+	url = https://github.com/keefe-murphy/imifa
 	shallow = true
 	registered = true
 [submodule "MoEClust"]

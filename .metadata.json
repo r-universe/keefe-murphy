@@ -1,10 +1,10 @@
 [
   {
-    "package": "IMIFA",
+    "package": "MEDseq",
     "oncran": true
   },
   {
-    "package": "MEDseq",
+    "package": "IMIFA",
     "oncran": true
   },
   {
